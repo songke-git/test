@@ -24,7 +24,7 @@ for x in input2:
                     result.append(str(i) + str(j))
 print(' '.join(result))
 
-
+# 简单测试
 
 
 
